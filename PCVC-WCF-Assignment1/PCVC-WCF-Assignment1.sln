@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCVC-WCF-Assignment1", "PCVC-WCF-Assignment1\PCVC-WCF-Assignment1.csproj", "{405BDB53-8A28-4599-9A4F-E7CC37580AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_1_Client", "Assignment_1_Client\Assignment_1_Client.csproj", "{4945EFBA-7E13-4645-9C29-4B6D390BDA3F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{405BDB53-8A28-4599-9A4F-E7CC37580AA6} = {405BDB53-8A28-4599-9A4F-E7CC37580AA6}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{405BDB53-8A28-4599-9A4F-E7CC37580AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405BDB53-8A28-4599-9A4F-E7CC37580AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405BDB53-8A28-4599-9A4F-E7CC37580AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405BDB53-8A28-4599-9A4F-E7CC37580AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4945EFBA-7E13-4645-9C29-4B6D390BDA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4945EFBA-7E13-4645-9C29-4B6D390BDA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4945EFBA-7E13-4645-9C29-4B6D390BDA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4945EFBA-7E13-4645-9C29-4B6D390BDA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4D313A3-A5FB-4AD9-95CD-26D8D2F35B3A}
+	EndGlobalSection
+EndGlobal

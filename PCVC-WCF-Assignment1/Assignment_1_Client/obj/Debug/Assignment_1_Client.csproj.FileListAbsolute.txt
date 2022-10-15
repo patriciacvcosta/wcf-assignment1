@@ -1,0 +1,8 @@
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\Assignment_1_Client\bin\Debug\Assignment_1_Client.exe.config
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\Assignment_1_Client\bin\Debug\Assignment_1_Client.exe
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\Assignment_1_Client\bin\Debug\Assignment_1_Client.pdb
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\Assignment_1_Client\obj\Debug\Assignment_1_Client.csproj.AssemblyReference.cache
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\Assignment_1_Client\obj\Debug\Assignment_1_Client.csproj.SuggestedBindingRedirects.cache
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\Assignment_1_Client\obj\Debug\Assignment_1_Client.csproj.CoreCompileInputs.cache
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\Assignment_1_Client\obj\Debug\Assignment_1_Client.exe
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\Assignment_1_Client\obj\Debug\Assignment_1_Client.pdb

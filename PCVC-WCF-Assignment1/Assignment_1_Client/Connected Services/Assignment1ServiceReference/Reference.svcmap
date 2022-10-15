@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="41d4c405-db8b-4964-b9a1-4883b7c66abb" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:56217/Assignment_1_Service.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Assignment_1_Service.disco" MetadataType="Disco" ID="37606580-b579-4dd6-98a3-cabab13cc3fe" SourceId="1" SourceUrl="http://localhost:56217/Assignment_1_Service.svc?disco" />
+    <MetadataFile FileName="Assignment_1_Service.xsd" MetadataType="Schema" ID="acf31d18-f73a-44ba-801c-011e3968085f" SourceId="1" SourceUrl="http://localhost:56217/Assignment_1_Service.svc?xsd=xsd1" />
+    <MetadataFile FileName="Assignment_1_Service2.xsd" MetadataType="Schema" ID="38d1b2bc-f195-4587-bced-33063a7edd8f" SourceId="1" SourceUrl="http://localhost:56217/Assignment_1_Service.svc?xsd=xsd2" />
+    <MetadataFile FileName="Assignment_1_Service1.xsd" MetadataType="Schema" ID="8e4d136e-1583-4960-b5df-7442f0dde38e" SourceId="1" SourceUrl="http://localhost:56217/Assignment_1_Service.svc?xsd=xsd0" />
+    <MetadataFile FileName="Assignment_1_Service.wsdl" MetadataType="Wsdl" ID="d8453eaa-d266-45e4-bd55-6fb110497c95" SourceId="1" SourceUrl="http://localhost:56217/Assignment_1_Service.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

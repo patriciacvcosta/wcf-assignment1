@@ -1,0 +1,7 @@
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\PCVC-WCF-Assignment1\bin\PCVC-WCF-Assignment1.dll.config
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\PCVC-WCF-Assignment1\bin\PCVC-WCF-Assignment1.dll
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\PCVC-WCF-Assignment1\bin\PCVC-WCF-Assignment1.pdb
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\PCVC-WCF-Assignment1\obj\Debug\PCVC-WCF-Assignment1.csproj.AssemblyReference.cache
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\PCVC-WCF-Assignment1\obj\Debug\PCVC-WCF-Assignment1.csproj.CoreCompileInputs.cache
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\PCVC-WCF-Assignment1\obj\Debug\PCVC-WCF-Assignment1.dll
+C:\05_9th_Semester\PROG3170-Distributed-Apps-Development\A1\PCVC-WCF-Assignment1\PCVC-WCF-Assignment1\obj\Debug\PCVC-WCF-Assignment1.pdb
